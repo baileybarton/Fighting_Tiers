@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: darkolivegreen;
+}
+
+.body {
+	background-color: darkorange;
+	padding: 20px;
+	margin: 20px;
+	height: 100%;
+}
+
+.bio {
+	display: inline-block;
+	font-size: 25px;
+}
+
+.desc {
+	font-size: 20px;
+}
+
+.image {
+	margin-right: 10px;
+	height: 280px;
+}
