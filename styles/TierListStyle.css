@@ -1,0 +1,84 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: darkolivegreen;
+	text-align: center;
+}
+
+header {
+	background-color: darkorange;
+	border-radius: 10px 60px;
+	margin: 40px;
+}
+
+h1 {
+	display: inline-block;
+	color: darkred;
+	width: 200px;
+	font-size: 45px;
+}
+
+th {
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+td {
+	font-size: 20px;
+}
+
+span {
+	text-decoration: line-through;
+	opacity: 0.5;
+	color: skyblue
+}
+
+.body {
+	background-color: darkorange;
+}
+
+.logo {
+	display: inline-block;
+	height: 70px;
+	width: 150px;
+	opacity: 0.6;
+	margin: 10px;
+	border: solid;
+}
+
+.logo:hover {
+	opacity: 1;
+}
+
+.logo_curr {
+	display: inline-block;
+	height: 70px;
+	width: 150px;
+	margin: 10px;
+	border: solid;
+}
+
+.image {
+	height: 135px;
+}
+
+.s_tier {
+	background-color: red;
+}
+
+.a_tier {
+	background-color: orangered;
+}
+
+.b_tier {
+	background-color: orange;
+}
+
+.c_tier {
+	background-color: green;
+}
+
+.d_tier {
+	background-color: skyblue;
+}
