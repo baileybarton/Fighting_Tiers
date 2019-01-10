@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: darkolivegreen;
+	text-align: center;
+}
+
+footer {
+	margin-top: 50px;
+}
+
+h1 {
+	display: inline-block;
+	color: darkred;
+	width: 200px;
+	font-size: 45px;
+}
+
+.body {
+	background-color: darkorange;
+	padding: 10px;
+	border-radius: 10px 60px;
+	margin: 50px;
+}
+
+button {
+	border-color: black;
+	border-width: thick;
+	background-color: orange;
+	height: 100px;
+	width: 300px;
+}
+
+button a {
+	text-decoration: none;
+	font-weight: bold;
+	color: black;
+	font-size: 50px;
+}
+
+.image {
+	height: 135px;
+}
+
+.warning {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.line {
+	text-decoration: line-through;
+	opacity: 0.5;
+	color: skyblue;
+}
