@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	text-align: center;
+	background-color: darkolivegreen;
+}
+
+div {
+	background-color: darkorange;
+	padding: 20px;
+	margin: 20px 30px;
+}
+
+header {
+	background-color: darkorange;
+	margin: 40px;
+	border-radius: 10px 60px;
+}
+
+h1 {
+	display: inline-block;
+	color: darkred;
+	width: 200px;
+	font-size: 45px;
+}
+
+span {
+	text-decoration: line-through;
+	opacity: 0.5;
+	color: skyblue;
+}
+
+.image {
+	height: 135px;
+}
+
+.logo {
+	display: inline-block;
+	height: 100px;
+	width: 250px;
+	opacity: 0.6;
+	margin: 10px;
+}
+
+.logo:hover {
+	opacity: 1;
+}
