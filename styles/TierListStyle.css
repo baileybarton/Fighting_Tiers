@@ -4,6 +4,7 @@
 body {
 	background-color: darkolivegreen;
 	text-align: center;
+	font-family: 'Merriweather Sans', sans-serif;
 }
 
 header {
@@ -42,9 +43,8 @@ span {
 	display: inline-block;
 	height: 70px;
 	width: 150px;
-	opacity: 0.6;
+	opacity: 0.4;
 	margin: 10px;
-	border: solid;
 }
 
 .logo:hover {
@@ -56,7 +56,6 @@ span {
 	height: 70px;
 	width: 150px;
 	margin: 10px;
-	border: solid;
 }
 
 .image {
